@@ -53,4 +53,4 @@ tic-tac-toe/
 
 ---
 
-Built with ❤️ while learning JavaScript.
+Made with ❤️ and JavaScript.
