@@ -28,14 +28,10 @@ This project is great for beginners who want to learn:
 
 ---
 
-## 🖼️ Screenshot
-
-![Tic Tac Toe Screenshot](assets/screenshot.png)
-
----
-
+<pre>
 ## 📁 Project Structure
 
+```
 tic-tac-toe/
 ├── index.html
 ├── css/
@@ -45,6 +41,9 @@ tic-tac-toe/
 ├── assets/
 │   └── screenshot.png
 └── README.md
+```
+</pre>
+
 
 ---
 
