@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Igonre all .DS_Store files in this folder and subfolders
+.DS_Store
